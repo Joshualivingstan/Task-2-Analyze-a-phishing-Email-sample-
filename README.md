@@ -19,7 +19,7 @@ In Online free tools
 
 ## 🛠️ **Lab Setup**
 
-- 📨 [Download Email Sample (.eml)] (https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-sample/blob/main/sample.eml)
+- 📨 [Download Email Sample (.eml)] (https://github.com/Joshualivingstan/Task-2-Analyze-a-phishing-Email-sample-/blob/main/Sample.%20eml)
 - 💻 Tools Recommended:
   - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
   - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
@@ -35,7 +35,7 @@ You received an email from BANCO DO BRADESCO LIVELO claiming that your card has 
 ## 1. Obtain a sample phishing email(many free samples online)
 
 **Find publicly available examples on trusted cybersecurity blogs or security awareness sites.**
-- 📨 [Download Email Sample (.eml)](https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)  
+- 📨 [Download Email Sample (.eml)](https://github.com/Joshualivingstan/Task-2-Analyze-a-phishing-Email-sample-/blob/main/Sample.%20eml)
   
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/a73ba6ce-6103-422e-841b-b75cef441179" />
@@ -46,7 +46,7 @@ You received an email from BANCO DO BRADESCO LIVELO claiming that your card has 
 Look for:
 **Minor misspellings(example:support@ paypa1.com instead of paypal.com). :**
 Use: [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
-Step 1: Drag and Drop the email text file by downloading the raw file of sample.eml(https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)  
+Step 1: Drag and Drop the email text file by downloading the raw file of sample.eml(https://github.com/Joshualivingstan/Task-2-Analyze-a-phishing-Email-sample-/blob/main/Sample.%20eml)
   
 <img width="777" alt="image" src="https://github.com/user-attachments/assets/4e3770d1-8f68-49ad-9bf9-1165d8bc0d8d" />
 
